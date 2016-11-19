@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author       = { "Daiki Okumura" => "daiki.okumura@gmail.com" }
   s.social_media_url = "http://twitter.com/okmr_d"
   s.platform     = :ios, "8.0"
-  s.source       = { :git => "https://github.com/okmr-d/DOFavoriteButton.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/naoto0n2/DOFavoriteButton.git", :tag => s.version.to_s }
   s.source_files = "DOFavoriteButton/*.swift"
   s.resources    = "DOFavoriteButton/*.png"
   s.framework    = "UIKit"
